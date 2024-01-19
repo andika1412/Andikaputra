@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andika1412/Andikaputra.git/static/css/main.5edfbfcb.css",
+    "main.js": "/andika1412/Andikaputra.git/static/js/main.4115fcc7.js",
+    "static/js/787.e530f960.chunk.js": "/andika1412/Andikaputra.git/static/js/787.e530f960.chunk.js",
+    "index.html": "/andika1412/Andikaputra.git/index.html",
+    "main.5edfbfcb.css.map": "/andika1412/Andikaputra.git/static/css/main.5edfbfcb.css.map",
+    "main.4115fcc7.js.map": "/andika1412/Andikaputra.git/static/js/main.4115fcc7.js.map",
+    "787.e530f960.chunk.js.map": "/andika1412/Andikaputra.git/static/js/787.e530f960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5edfbfcb.css",
+    "static/js/main.4115fcc7.js"
+  ]
+}
