@@ -4,7 +4,7 @@ const Introduce = () => {
   return (
     <div className="flex justify-center bg-background md:py-[100px] py-[50px]">
       <div className="max-w-[803px] Font-Inter  mx-[20px]">
-        <img src="images/ilustration4.png" alt="" className="mx-auto" />
+        <img src="./Andikaputra/images/ilustration4.png" alt="" className="mx-auto" />
         <h1 className="text-[24px] md:text-[30px] text-bigtext font-bold text-center pt-[24px]">
           <span className="text-orenji">✋ </span>know more about me
         </h1>
