@@ -21,7 +21,7 @@ const Linkdln = () => {
           </div>
         </div>
         <div className="  px-[12px] md:w-1/3 my-auto invisible md:visible  ">
-          <img src="./Andikaputra//images/Ilustration3.png" alt="" className="w-[0] md:w-[250px] lg:w-auto " />
+          <img src="./Andikaputra/Images/Ilustration3.png" alt="" className="w-[0] md:w-[250px] lg:w-auto " />
         </div>
       </div>
     </div>

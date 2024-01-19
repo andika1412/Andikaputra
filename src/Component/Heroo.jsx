@@ -11,7 +11,7 @@ const Heroo = () => {
               <h1 className="md:text-left font-Inter font-semibold text-bigtext text-[18px] md:font-black leading-tight   md:text-[70px] pb-[12px] text-center"> Turning ideas into real life products is my calling.</h1>
             </div>
             <div className=" w-full my-auto  xl:w-2/5 ">
-              <img src="/images/ilustrationfirst.png" alt="" className="mx-auto pb-[32px] w-[477px]" />
+              <img src="/Images/ilustrationfirst.png" alt="" className="mx-auto pb-[32px] w-[477px]" />
             </div>
           </div>
         </div>

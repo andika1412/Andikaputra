@@ -5,7 +5,7 @@ const BuildTogether = () => {
     <div className="flex justify-center bg-background mt-[120px]">
       <div className="md:mx-[100px] mx-[20px] md:mt-[120px] mt-[30px]  max-w-[810px] pb-[24px] my-[50px] ">
         <div className="">
-          <img src="/images/Ilustartion1.png" alt="" className="mx-auto pb-[24px]" />
+          <img src="/Images/Ilustartion1.png" alt="" className="mx-auto pb-[24px]" />
 
           <h1 className=" md:text-[30px] text-bigtext font-Inter font-bold text-[24px] text-center pb-[20px] ">Let,s build something together.</h1>
           <p className="md:text-[20px] leading-[32px] text-bigtext text-[18px] font-Inter font-medium text-center pb-[32px] ">
