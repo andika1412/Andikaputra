@@ -1,4 +1,5 @@
 import React from "react";
+console.log(<img src="./Andikaputra/Images/Hero.png" alt="" className="mx-auto pb-[32px]" />);
 
 const Hero = () => {
   return (
