@@ -7,10 +7,10 @@ const Lookingfor = () => {
         <h1 className=""> I'm here for you, if you’re looking for</h1>
       </div>
       <div className="flex flex-wrap max-w-[816px] pb-[60px]  md:mt-[24px] mx-auto">
-        <Lookingforcard gambar="./Andikaputra/Images/Lamp.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
-        <Lookingforcard gambar="./Andikaputra/Images/Program.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
-        <Lookingforcard gambar="./Andikaputra/Images/Web.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
-        <Lookingforcard gambar="./Andikaputra/Images/Cookie.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
+        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Lamp.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
+        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Program.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
+        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Web.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
+        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Cookie.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
       </div>
     </div>
   );
