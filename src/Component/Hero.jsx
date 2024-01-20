@@ -37,7 +37,7 @@ const Hero = () => {
               </div>
             </div>
             <div className=" w-full  xl:w-1/2 ">
-              <img src="https://andika1412.github.io/Andikaputra/Images/Hero.png" alt="" className="mx-auto pb-[32px]" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Hero/png" alt="" className="mx-auto pb-[32px]" />
             </div>
           </div>
         </div>
