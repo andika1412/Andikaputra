@@ -37,11 +37,7 @@ const Hero = () => {
               </div>
             </div>
             <div className=" w-full  xl:w-1/2 ">
-<<<<<<< HEAD
-              <img src="./Andikaputra/Hero.png" alt="" className="mx-auto pb-[32px]" />
-=======
               <img src="./Andikaputra/Images/Hero.png" alt="" className="mx-auto pb-[32px]" />
->>>>>>> b7b4489be6f5ae3ea41f6e01fe04753b40a28af2
             </div>
           </div>
         </div>
