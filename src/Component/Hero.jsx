@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="flex flex-wrap-reverse px-[6px] py-[12px]">
             <div className="w-full   xl:w-1/2 my-auto pb-[24px]">
               <h1 className="md:text-left font-Inter font-semibold text-bigtext text-[18px]  md:text-[22px] pb-[12px] text-center">
-                <span className=" text-[30px]">👋</span> Hii! my name is Andika & i am a
+                <span className=" text-[30px]">👋</span> Hiii! my name is Andika & i am a
               </h1>
               <h1 className="md:text-left font-Inter font-bold text-bigtext md:text-[32px] text-[28px] pb-[12px] text-center">Programer & UI/UX Designer</h1>
               <h1 className="md:text-left font-Inter font-[500] text-bigtext md:text-[20px] text-[18px] leading-[32px] pb-[12px] text-center">Crafting Exceptional Digital Experiences. Transforming Complex Problems into Simple Solutions</h1>
@@ -37,7 +37,7 @@ const Hero = () => {
               </div>
             </div>
             <div className=" w-full  xl:w-1/2 ">
-              <img src="./https://andika1412.github.io/Andikaputra/Images/Hero.png" alt="" className="mx-auto pb-[32px]" />
+              <img src=".Andikaputra/Images/Hero.png" alt="" className="mx-auto pb-[32px]" />
             </div>
           </div>
         </div>
