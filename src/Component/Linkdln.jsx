@@ -2,14 +2,14 @@ import React from "react";
 
 const Linkdln = () => {
   return (
-    <div className="md:mx-[100px] mb-[24px] mx-[20px] mt-[24px]">
-      <div className="flex flex-wrap justify-center px-[2px]  md:pt-[130px] pt-[80px]  max-w-[1000px] mx-auto">
+    <div className="md:mx-[100px]  mx-[20px] mt-[80px] md:mt-[0px] mb-[24px] ">
+      <div className="flex flex-wrap justify-center px-[2px]  md:pt-[130px]   max-w-[1000px] mx-auto">
         <div className="  px-[12px] md:w-2/3">
           <div className=" md:max-w-[401px]    ">
             <h2 className="font-Inter font-bold text-[24px] text-bigtext pb-[16px] text-center md:text-left md:text-[30px]">Start your journey with me, i’ve expertise in those apps</h2>
           </div>
           <div className="max-w-[810px]  ">
-            <p className="leading-[32px] font-Inter md:text-[20px] pt-[16px] pb-[24px]  text-[18px] text-bigtext text-center md:text-left">
+            <p className="leading-[38px] font-Inter md:text-[20px] pt-[16px] pb-[24px]  text-[20px] text-bigtext text-center md:text-left">
               From creating wireframes and prototypes to developing high-fidelity mockups and animations, able to utilize a range of design tools to bring my design to life.
             </p>
           </div>

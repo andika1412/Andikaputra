@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <div className="stick top-0">
       <header className="border border-navbar w-full  top-0 left-0 ">
-        <div className="md:flex items-center justify-between bg-white/80 backdrop-blur-[2px] py-3 md:px-20 px-7 ">
+        <div className={`md:flex items-center justify-between  backdrop-blur-[2px] py-3 md:px-20 px-7 ${open ? "bg-white/95" : "bg-white/80"} `}>
           <div className=" font-bold text-2xl cursor-pointer flex items-center ">
             <span className="text-3xl text-indigo-600 mr-1 ">
               <img src="https://andika1412.github.io/Andikaputra/Images/Logo.png" alt="" className="min-w-fit" />
@@ -26,7 +26,7 @@ const Navbar = () => {
 
           <ul
             className={`md:flex md:items-center md:pb-0 pb-[6px] absolute md:static  z-20 left-0 w-full md:w-auto md:pl-0 pl-9 transtition-all duration-500 ease-in ${
-              open ? "top-20 opacity-100 bg-white/60 backdrop-blur-[2px] border-b-[2px] border-smalltext " : "top-[-490px] md:opacity-100 opacity-0 "
+              open ? "top-20 opacity-100 bg-white/90 backdrop-blur-[2px] border-b-[2px] border-smalltext " : "top-[-490px] md:opacity-100 opacity-0 "
             }`}
           >
             {/* <ul className={"md:flex md:items-center md:pb-0 pb-12 absolute md:static bg-white md:z-[auto] z-[-1] left-0 w-full md:w-auto md:pl-0 pl-9 transtition-all duration-500 ease-in  "}> */}

@@ -2,14 +2,14 @@ import React from "react";
 
 const Product = () => {
   return (
-    <div className="md:mx-[100px] mb-[24px] mx-[20px] md:mt-[170px] mt-[30px]">
+    <div className="md:mx-[100px] mb-[24px] mx-[20px] md:mt-[100px] mt-[30px] pt-[40px] md:pt-[0px]">
       <div className="flex flex-wrap justify-center   max-w-[1000px] mx-auto ">
         <div className="  px-[12px] md:w-2/3">
           <div className=" md:max-w-[351px]    ">
             <h2 className="font-Inter font-bold text-[24px] text-bigtext pb-[16px] text-center md:text-left md:text-[30px]">Check out some of the products i've worked on</h2>
           </div>
           <div className="max-w-[810px]  ">
-            <p className="leading-[32px] font-Inter md:text-[20px] pt-[16px] pb-[24px]  text-[18px] text-bigtext text-center md:text-left">
+            <p className="leading-[38px] font-Inter md:text-[20px] pt-[16px] pb-[24px]  text-[20px] text-bigtext text-center md:text-left">
               Worked closely with the clients to understand their business goals and the needs of their target audience, and designed a new interface that met their needs and exceede their expectations.
             </p>
           </div>
