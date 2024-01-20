@@ -1,5 +1,5 @@
 import React from "react";
-import Hero from "../";
+import Hero from ".../public/Images/Hero.png";
 
 const Hero = () => {
   return (
@@ -38,7 +38,7 @@ const Hero = () => {
               </div>
             </div>
             <div className=" w-full  xl:w-1/2 ">
-              <img src="Andikaputra/public/Images/Hero/png" alt="" className="mx-auto pb-[32px]" />
+              <img src={Hero} alt="" className="mx-auto pb-[32px]" />
             </div>
           </div>
         </div>
