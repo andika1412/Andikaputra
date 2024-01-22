@@ -25,7 +25,7 @@ const Navbar = () => {
         <div className={`md:flex items-center justify-between  backdrop-blur-[2px] py-3 md:px-20 px-7 ${open ? "bg-white/95" : "bg-white/80"} `}>
           <div className=" font-bold text-2xl cursor-pointer flex items-center ">
             <span className="text-3xl text-indigo-600 mr-1 ">
-              <img src="https://andika1412.github.io/Andikaputra/Images/Logo.png" alt="" className="min-w-fit" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Logoo.png" alt="" className="min-w-fit" />
             </span>
           </div>
 
