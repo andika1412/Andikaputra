@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div>
       {/* for text */}
-      <div className="   md:mt-[170px] mt-[30px] md:pb-[100px] max-w-[1000px] mx-[24px] md:mx-auto ">
+      <div className="   md:mt-[170px] mt-[30px] md:pb-[100px] max-w-[1000px] mx-[24px] md:mx-auto  ">
         <div className="container mx-auto  ">
           <div className="flex flex-wrap-reverse  py-[12px]">
             <div className="w-full   xl:w-1/2 my-auto pb-[24px]">

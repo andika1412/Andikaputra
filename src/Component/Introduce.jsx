@@ -8,7 +8,7 @@ const Introduce = () => {
         <h1 className="text-[24px] md:text-[30px] text-bigtext font-bold text-center pt-[24px]">
           <span className="text-orenji">✋ </span>know more about me
         </h1>
-        <p className="text-bigtext text-[20px] md:text-[20px] md:leading-[32px] leading-[38px] text-center pt-[24px] ">
+        <p className="text-bigtext text-[20px] md:text-[20px] md:leading-[38px] leading-[38px] text-center pt-[24px] ">
           Since beginning my journey as a freelance designer, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly
           confident, naturally curious, and perpetually working on improving my chops.
         </p>

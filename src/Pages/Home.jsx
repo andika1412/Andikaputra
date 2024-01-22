@@ -7,15 +7,11 @@ import Linkdln from "../Component/Linkdln";
 import Journey from "../Component/Journey";
 import Lookingfor from "../Component/Lookingfor";
 import Introduce from "../Component/Introduce";
-import Heroo from "../Component/Heroo";
 import Footer from "../Component/Footer";
 
 const Home = () => {
   return (
-    <div className="">
-      <div className="sticky top-0 z-40">
-        <Navbar />
-      </div>
+    <>
       <Hero />
       <Introduce />
       <Product />
@@ -25,7 +21,7 @@ const Home = () => {
       <Journey />
       <Lookingfor />
       <Footer />
-    </div>
+    </>
   );
 };
 
