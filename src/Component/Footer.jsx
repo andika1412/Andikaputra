@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 const Footer = () => {
   return (
     <div>
-      <div className="bg-bigtext h-[180px] md:h-[160px] font-Inter md:px-[160px]  ">
+      <div className="bg-bigtext h-[180px] md:h-[160px] font-Inter md:px-[160px]   ">
         <div className="px-[24px] pt-[24px] ">
           <h1 className="font-bold text-white text-[20px] md:text-[26px] ">Get in touch</h1>
           <p className="pt-[12px] text-[16px] text-gray-300">

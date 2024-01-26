@@ -12,15 +12,16 @@ import Footer from "../Component/Footer";
 const Home = () => {
   return (
     <>
-      <Hero />
-      <Introduce />
-      <Product />
-      <Workon />
-      <BuildTogether />
-      <Linkdln />
-      <Journey />
-      <Lookingfor />
-      <Footer />
+      <div className="">
+        <Hero />
+        <Introduce />
+        <Product />
+        <Workon />
+        <BuildTogether />
+        <Linkdln />
+        <Journey />
+        <Lookingfor />
+      </div>
     </>
   );
 };

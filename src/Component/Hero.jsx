@@ -11,7 +11,7 @@ const Hero = () => {
               <h1 className="md:text-left font-Inter font-semibold text-bigtext text-[18px]  md:text-[22px] pb-[12px] text-center">
                 <span className=" text-[30px]">👋</span> Hi! my name is Andika & i am a
               </h1>
-              <h1 className="md:text-left font-Inter font-bold text-bigtext md:text-[32px] text-[28px] pb-[12px] text-center">Programer & UI/UX Designer</h1>
+              <h1 className="md:text-left font-Inter font-extrabold text-bigtext md:text-[32px] text-[28px] pb-[12px] text-center">Programer & UI/UX Designer</h1>
               <h1 className="md:text-left font-Inter font-[500] text-bigtext md:text-[20px] text-[18px] leading-[32px] pb-[12px] text-center">Crafting Exceptional Digital Experiences. Transforming Complex Problems into Simple Solutions</h1>
               <div className="flex flex-wrap justify-center pt-[32px] content-center pb-[32px] md:justify-normal ">
                 <div className="w-full md:w-1/2 max-w-fit  max-h-fit ">

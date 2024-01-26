@@ -1,15 +1,14 @@
 import React from "react";
-import Navbar from "../Component/Navbar";
-import Introduce from "../Component/Introduce";
-import Product from "../Component/Product";
-import Workon from "../Component/Workon";
+
+import Library from "../Component/MyWorkComponents/Library";
+import LibraryProject from "../Component/MyWorkComponents/LibraryProject";
+import TesColumn from "../Component/MyWorkComponents/TesColumn";
 
 const Mywork = () => {
   return (
-    <div>
-      <Introduce />
-      <Product />
-      <Workon />
+    <div className="md:px-[100px] px-[24px]  ">
+      <Library />
+      <LibraryProject />
     </div>
   );
 };

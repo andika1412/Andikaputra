@@ -4,6 +4,7 @@ import Navbar from "./Component/Navbar";
 import ExperienceAndEducation from "./Pages/ExperienceAndEducation";
 import NotFound from "./Pages/NotFound";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Footer from "./Component/Footer";
 
 const App = () => {
   return (
@@ -14,9 +15,10 @@ const App = () => {
           <Route path="/Andikaputra/Home" element={<Home />} />
           <Route path="/Andikaputra" element={<Home />} />
           <Route path="/Andikaputra/MyWork" element={<MyWork />} />
-          <Route path="/Andikaputra/ExperienceAndEducation" element={<MyWork />} />
+          <Route path="/Andikaputra/ExperienceAndEducation" element={<ExperienceAndEducation />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
+        <Footer />
       </Router>
     </div>
   );
