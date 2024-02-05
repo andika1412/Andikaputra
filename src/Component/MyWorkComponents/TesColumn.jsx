@@ -62,7 +62,7 @@ const TesColumn = () => {
           <div className="rounded-xl shadow-lg">
             <div className="p-5 flex flex-col">
               <div className="rounded-xl overflow-hidden">
-                <img src="Images/uu.jpg" alt="" />
+                <img src="https://andika1412.github.io/Andikaputra/Images/uu.jpg" alt="" />
               </div>
               <h5 className="text-2xl md:text-3xl font-medium mt-3">Camp Batu gede</h5>
               <p className="text-slate-500 text-lg mt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum fugit aperiam doloremque animi!</p>
@@ -75,7 +75,7 @@ const TesColumn = () => {
           <div className="rounded-xl shadow-lg">
             <div className="p-5 flex flex-col">
               <div className="rounded-xl overflow-hidden">
-                <img src="Images/uu.jpg" alt="" />
+                <img src="https://andika1412.github.io/Andikaputra/Images/uu.jpg" alt="" />
               </div>
               <h5 className="text-2xl md:text-3xl font-medium mt-3">Camp Batu gede</h5>
               <p className="text-slate-500 text-lg mt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum fugit aperiam doloremque animi!</p>
@@ -88,7 +88,7 @@ const TesColumn = () => {
           <div className="rounded-xl shadow-lg">
             <div className="p-5 flex flex-col">
               <div className="rounded-xl overflow-hidden">
-                <img src="Images/uu.jpg" alt="" />
+                <img src="https://andika1412.github.io/Andikaputra/Images/uu.jpg" alt="" />
               </div>
               <h5 className="text-2xl md:text-3xl font-medium mt-3">Camp Batu gede</h5>
               <p className="text-slate-500 text-lg mt-3">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum fugit aperiam doloremque animi!</p>

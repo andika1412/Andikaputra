@@ -19,28 +19,28 @@ const Heroo = () => {
         </div>
 
         <div className="absolute md:top-[165px] top-[100px] left-[500px] z-0 animate-bounce  ">
-          <img src="Images/square.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/square.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[255px] top-[200px] left-[330px] z-0  animate-bounce">
-          <img src="Images/square2.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/square2.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[255px] top-[400px] right-[150px] z-0 animate-bounce">
-          <img src="Images/square2.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/square2.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[365px] top-[600px] left-[150px] z-0 animate-bounce">
-          <img src="Images/square2.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/square2.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[495px] top-[250px] left-[230px] z-0 animate-bounce">
-          <img src="Images/square.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/square.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[465px] top-[200px] right-[270px] z-0 animate-bounce">
-          <img src="Images/square.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/square.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[495px] top-[500px] md:right-[350px] right-[250px] z-0 animate-bounce ">
-          <img src="Images/square.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/square.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[265px] right-[200px] z-0 invisible md:visible ">
-          <img src="Images/line.png" alt="" className="" />
+          <img src="https://andika1412.github.io/Andikaputra/Images/line.png" alt="" className="" />
         </div>
       </div>
     </div>
