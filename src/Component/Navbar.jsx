@@ -20,7 +20,7 @@ const Navbar = () => {
   // ${open ? top-20 : top-[490]}
   let [open, setOpen] = useState(false);
   return (
-    <div className=" sticky top-0 z-40">
+    <div className=" sticky top-0 z-40 animasii ">
       <header className="border border-navbar w-full  top-0 left-0 ">
         <div className={`md:flex items-center justify-between  backdrop-blur-[2px] py-3 md:px-20 px-7 ${open ? "bg-white/95" : "bg-white/80"} `}>
           <div className=" font-bold text-2xl cursor-pointer flex items-center ">

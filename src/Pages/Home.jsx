@@ -1,5 +1,5 @@
 import Hero from "../Component/Hero";
-import Navbar from "../Component/Navbar";
+import Heroo from "../Component/Heroo";
 import BuildTogether from "../Component/BuildTogether";
 import Product from "../Component/Product";
 import Workon from "../Component/Workon";
@@ -13,7 +13,7 @@ const Home = () => {
   return (
     <>
       <div className="">
-        <Hero />
+        <Heroo />
         <Introduce />
         <Product />
         <Workon />

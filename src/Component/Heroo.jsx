@@ -2,18 +2,45 @@ import React from "react";
 
 const Heroo = () => {
   return (
-    <div>
-      {/* for text */}
-      <div className="   md:mt-[170px] mt-[30px] md:pb-[100px]  max-w-[1200px] mx-auto ">
-        <div className="   ">
-          <div className="flex flex-row justify-between    py-[12px] ">
-            <div className="w-full  my-auto  xl:w-3/5   max-w-[700px] ">
-              <h1 className="md:text-left font-Inter font-semibold text-bigtext text-[18px] md:font-black leading-tight   md:text-[70px] pb-[12px] text-center"> Turning ideas into real life products is my calling.</h1>
-            </div>
-            <div className=" w-full my-auto  xl:w-2/5 ">
-              <img src="/Images/ilustrationfirst.png" alt="" className="mx-auto pb-[32px] w-[477px]" />
-            </div>
-          </div>
+    <div className="max-h-fit md:px-[100px] px-[30px] font-Inter text-center flex flex-col  ">
+      <div className="md:pt-[160px] pt-[40px] md:mb-[250px] mb-[100px] ">
+        <div className="text-[#6A6C76] text-[20px] z-10 relative  ">
+          <h1>FrontEnd Developer - UI/UX Designer</h1>
+        </div>
+        <div className="font-extrabold text-bigtext pt-[32px] pb-[60px] relative md:text-[59px] text-[40px] z-10 ">
+          <h1 className="animasi">
+            Turning ideas into real life <br /> products is my calling.
+          </h1>
+        </div>
+        <div className="text-orenji  font-medium text-[20px] max-w-fit flex flex-row mx-auto gap-5  ">
+          <a href="">About me</a>
+          <p className="text-bigtext">-</p>
+          <a href="">My Projects</a>
+        </div>
+
+        <div className="absolute md:top-[165px] top-[100px] left-[500px] z-0 animate-bounce  ">
+          <img src="Images/square.png" alt="" className="" />
+        </div>
+        <div className="absolute md:top-[255px] top-[200px] left-[330px] z-0  animate-bounce">
+          <img src="Images/square2.png" alt="" className="" />
+        </div>
+        <div className="absolute md:top-[255px] top-[400px] right-[150px] z-0 animate-bounce">
+          <img src="Images/square2.png" alt="" className="" />
+        </div>
+        <div className="absolute md:top-[365px] top-[600px] left-[150px] z-0 animate-bounce">
+          <img src="Images/square2.png" alt="" className="" />
+        </div>
+        <div className="absolute md:top-[495px] top-[250px] left-[230px] z-0 animate-bounce">
+          <img src="Images/square.png" alt="" className="" />
+        </div>
+        <div className="absolute md:top-[465px] top-[200px] right-[270px] z-0 animate-bounce">
+          <img src="Images/square.png" alt="" className="" />
+        </div>
+        <div className="absolute md:top-[495px] top-[500px] md:right-[350px] right-[250px] z-0 animate-bounce ">
+          <img src="Images/square.png" alt="" className="" />
+        </div>
+        <div className="absolute md:top-[265px] right-[200px] z-0 invisible md:visible ">
+          <img src="Images/line.png" alt="" className="" />
         </div>
       </div>
     </div>
@@ -22,27 +49,22 @@ const Heroo = () => {
 
 export default Heroo;
 
-//kerangka
 // const Heroo = () => {
 //   return (
-//     <div>
-//       {/* for text */}
-//       <div className="border border-black mx-[100px] mt-[120px]">
-//         <div className="container mx-auto">
-//           <div className="flex flex-wrap border border-black px-[12px] py-[12px]">
-//             <div className="w-full  border border-black xl:w-1/2 my-auto">
-//               <h1 className="font-Inter font-semibold text-bigtext text-[20px]  ">✌ Hi! my name in Andika & i am a</h1>
-//               <h1 className="font-Inter font-bold text-bigtext text-[32px]">Programer & UI/UX Designer</h1>
-//               <h1 className="font-Inter font-[500] text-bigtext text-[18px] leading-[24px]">Crafting Exceptional Digital Experiences. Transforming Complex Problems into Simple Solutions</h1>
-//               <div className="flex-flex-warp border border-black pt-[32px]">
-//                 <button className="py-[24px] px-[56px] bg-bigtext text-white font-Inter font-semibold text-[18px] rounded-[6px] mr-[24px]">Get Started</button>
-//                 <button className="py-[24px] px-[56px] border border-bigtext text-bigtext font-Inter font-semibold text-[18px] rounded-[6px] ">Contact Me</button>
-//               </div>
-//             </div>
-//             <div className=" w-full border border-black xl:w-1/2 ">
-//               <img src="/images/Heroo.png" alt="" className="mx-auto" />
-//             </div>
-//           </div>
+//     <div className="max-h-fit px-[100px] font-Inter text-center flex flex-col relative  ">
+//       <div className="pt-[150px] mb-[250px]">
+//         <div className="text-[#6A6C76] text-[20px] ">
+//           <h1>FrontEnd Developer - UI/UX Designer</h1>
+//         </div>
+//         <div className="font-extrabold text-bigtext pt-[32px] pb-[40px] text-[59px]">
+//           <h1>
+//             Turning ideas into real life <br /> products is my calling.
+//           </h1>
+//         </div>
+//         <div className="text-orenji  font-medium text-[20px] max-w-fit flex flex-row mx-auto gap-5  ">
+//           <a href="">About me</a>
+//           <p className="text-bigtext">-</p>
+//           <a href="">My Projects</a>
 //         </div>
 //       </div>
 //     </div>

@@ -17,6 +17,9 @@ module.exports = {
       fontFamily: {
         body: ["Inter"],
       },
+      animation: {
+        fade: "fadeOut 5s ease-in-out",
+      },
       screens: {},
     },
   },

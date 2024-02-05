@@ -18,11 +18,33 @@
   font-weight: 600;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
   }
-  to {
-    transform: rotate(360deg);
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
   }
+}
+@keyframes fade-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+.animasi {
+  animation: fade-up 2.5s;
+  animation-delay: 3.8s;
+}
+
+.animasii {
+  animation: fade-down 2.5s;
+  animation-delay: 3.8s;
 }
