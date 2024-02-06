@@ -9,17 +9,17 @@ const Heroo = () => {
 
   return (
     <div className="max-h-fit md:px-[100px] px-[24px] font-Inter text-center flex flex-col  ">
-      <div className="md:pt-[160px] pt-[40px] md:mb-[250px] mb-[50px] ">
+      <div className="md:pt-[160px] pt-[60px] md:mb-[250px] mb-[50px] ">
         <div className="text-[#6A6C76] text-[18px] z-10 relative  ">
           <h1>FrontEnd Developer - UI/UX Designer</h1>
         </div>
-        <div className="font-extrabold text-bigtext pt-[32px] pb-[60px] relative md:text-[59px] text-[40px] z-10 ">
-          <h1 data-aos="fade-up">
+        <div className="font-extrabold text-bigtext pt-[50px] md:pt-[32px]  leading-[70px] pb-[80px] relative md:text-[59px] text-[46px] z-10 ">
+          <h1 data-aos="fade-up ">
             Turning <span className="text-orenji">Ideas</span> into real life <br /> products is my calling.
             {/* Concepts/visions */}
           </h1>
         </div>
-        <div className="text-orenji  font-medium text-[20px] max-w-fit flex flex-row mx-auto gap-5   ">
+        <div className="text-orenji  font-medium text-[18px] md:text-[20px]  max-w-fit flex flex-row mx-auto gap-5   ">
           <a href="" className=" hover:font-semibold z-20  ">
             About me
           </a>
