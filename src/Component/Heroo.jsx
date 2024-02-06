@@ -13,7 +13,7 @@ const Heroo = () => {
         <div className="text-[#6A6C76] text-[18px] z-10 relative  ">
           <h1>FrontEnd Developer - UI/UX Designer</h1>
         </div>
-        <div className="font-extrabold text-bigtext pt-[50px] md:pt-[32px]  leading-[70px] pb-[80px] relative md:text-[59px] text-[56px] z-10 ">
+        <div className="font-extrabold text-bigtext pt-[50px] md:pt-[32px]  leading-[8-px] pb-[80px] relative md:text-[59px] text-[60px] z-10 ">
           <h1 data-aos="fade-up ">
             Turning <span className="text-orenji">Ideas</span> into real life <br /> products is my calling.
             {/* Concepts/visions */}
