@@ -16,9 +16,9 @@ const Lookingfor = () => {
       </div>
       <div className="flex flex-wrap max-w-[816px] pb-[60px]  md:mt-[24px] mx-auto" data-aos="fade-up">
         <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Lamp.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
-        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Program.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
-        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Web.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
-        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Cookie.png" text="A reliable and experince UX designer to help youcreate intuitive and user-centered design" />
+        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Program.png" text="Someone to devlope Frontend with Reactjs, and to manage your website." />
+        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Web.png" text="Design strategy and consulting to help you align your designs with your business goals" />
+        <Lookingforcard gambar="https://andika1412.github.io/Andikaputra/Images/Cookie.png" text="Expertise in wireframing, prototyping, and visual design to bring your ideas to life." />
       </div>
     </div>
   );

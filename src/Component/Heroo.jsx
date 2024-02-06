@@ -13,7 +13,7 @@ const Heroo = () => {
         <div className="text-[#6A6C76] text-[18px] z-10 relative  ">
           <h1>FrontEnd Developer - UI/UX Designer</h1>
         </div>
-        <div className="font-extrabold text-bigtext pt-[50px] md:pt-[32px]  leading-[70px] pb-[80px] relative md:text-[59px] text-[50px] z-10 ">
+        <div className="font-extrabold text-bigtext pt-[50px] md:pt-[32px]  leading-[70px] pb-[80px] relative md:text-[59px] text-[56px] z-10 ">
           <h1 data-aos="fade-up ">
             Turning <span className="text-orenji">Ideas</span> into real life <br /> products is my calling.
             {/* Concepts/visions */}
@@ -41,7 +41,7 @@ const Heroo = () => {
         <div className="absolute md:top-[365px] top-[450px] md:left-[150px] left-[300px] z-0 animate-bounce">
           <img src="https://andika1412.github.io/Andikaputra/Images/square2.png" alt="" className="" />
         </div>
-        <div className="absolute md:top-[495px] top-[280px] left-[230px] z-0 animate-bounce-slow">
+        <div className="absolute md:top-[495px] top-[360px] left-[230px] z-0 animate-bounce-slow">
           <img src="https://andika1412.github.io/Andikaputra/Images/square.png" alt="" className="" />
         </div>
         <div className="absolute md:top-[465px] top-[200px] right-[270px] z-0 animate-bounce">

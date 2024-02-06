@@ -12,7 +12,7 @@ const card = (props) => {
           <img
             src={props.gambar}
             alt=""
-            className="md:w-[185px] hover md:h-[185px] w-[170px] lg:contrast-[.25] ease-in-out duration-200 lg:grayscale group-hover:grayscale-0 group-hover:scale-110 lg:group-hover:contrast-100 h-[150px] mx-auto bg-auto  "
+            className="md:w-[185px] hover md:h-[185px] w-[150px] lg:contrast-[.25] ease-in-out duration-200 lg:grayscale group-hover:grayscale-0 group-hover:scale-110 lg:group-hover:contrast-100 h-[150px] mx-auto bg-auto  "
           />
         </div>
         <div className="md:pt-[2px] font-Inter">
