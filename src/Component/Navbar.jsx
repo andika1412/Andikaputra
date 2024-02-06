@@ -35,7 +35,7 @@ const Navbar = () => {
 
           <ul
             className={`md:flex md:items-center md:pb-0 pb-[6px] absolute md:static  z-20 left-0 w-full md:w-auto md:pl-2 pl-9 transtition-all duration-500 ease-in ${
-              open ? "top-20 opacity-100 bg-white/90 backdrop-blur-[2px] border-b-[2px] border-smalltext " : "top-[-490px] md:opacity-100 opacity-0 "
+              open ? "top-20 opacity-100 bg-white/90 backdrop-blur-[4px] border-b-[2px] border-smalltext " : "top-[-490px] md:opacity-100 opacity-0 "
             }`}
           >
             {Links.map((link) => (
