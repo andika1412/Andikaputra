@@ -8,7 +8,7 @@ const Introduce = () => {
   }, []);
 
   return (
-    <div className="flex justify-center bg-background md:py-[100px] py-[80px]  ">
+    <div className="flex justify-center mt-[30px] bg-background md:py-[100px] py-[80px]  ">
       <div className="max-w-[803px] Font-Inter animation mx-[20px] " data-aos="fade-up">
         <img src="https://andika1412.github.io/Andikaputra/Images/ilustration4.png" alt="" className="mx-auto" />
         <h1 className="text-[24px] md:text-[30px] text-bigtext font-bold text-center pt-[24px]">

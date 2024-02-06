@@ -1,8 +1,14 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Icon } from "@iconify/react";
+import Aos from "aos";
+import "aos/dist/aos.css";
+
 const BuildTogether = () => {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+  }, []);
   return (
-    <div className="flex justify-center bg-background md:mt-[120px] mt-[80px] pt-[100px] md:pt-[20px]">
+    <div className="flex justify-center bg-background md:mt-[120px] mt-[80px] pt-[100px] md:pt-[20px] " data-aos="fade-up">
       <div className="md:mx-[100px] mx-[20px] md:mt-[120px] mt-[30px]  max-w-[810px] pb-[40px] my-[50px] ">
         <div className="">
           <img src="https://andika1412.github.io/Andikaputra/Images/Ilustartion1.png" alt="" className="mx-auto pb-[24px]" />

@@ -41,10 +41,8 @@
 
 .animasi {
   animation: fade-up 2.5s;
-  animation-delay: 3.8s;
 }
 
 .animasii {
   animation: fade-down 2.5s;
-  animation-delay: 3.8s;
 }

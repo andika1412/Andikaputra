@@ -1,10 +1,15 @@
-import React from "react";
+import React, { useEffect } from "react";
+import Aos from "aos";
+import "aos/dist/aos.css";
 
 const Linkdln = () => {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+  }, []);
   return (
-    <div className="md:mx-[100px]  mx-[20px] mt-[80px] md:mt-[0px] mb-[24px] ">
+    <div className="md:mx-[100px]  mx-[20px] mt-[80px] md:mt-[0px] mb-[24px]">
       <div className="flex flex-wrap justify-center px-[2px]  md:pt-[130px]   max-w-[1000px] mx-auto">
-        <div className="  px-[12px] md:w-2/3">
+        <div className="  px-[12px] md:w-2/3" data-aos="fade-right">
           <div className=" md:max-w-[401px]    ">
             <h2 className="font-Inter font-bold text-[24px] text-bigtext pb-[16px] text-center md:text-left md:text-[30px]">Start your journey with me, i’ve expertise in those apps</h2>
           </div>
@@ -20,7 +25,7 @@ const Linkdln = () => {
             </button>
           </div>
         </div>
-        <div className="  px-[12px] md:w-1/3 my-auto invisible md:visible  ">
+        <div className="  px-[12px] md:w-1/3 my-auto invisible md:visible  " data-aos="fade-left">
           <img src="https://andika1412.github.io/Andikaputra/Images/Ilustration3.png" alt="" className="w-[0] md:w-[250px] lg:w-auto " />
         </div>
       </div>

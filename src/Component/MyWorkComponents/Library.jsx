@@ -11,7 +11,7 @@ const Library = () => {
             <p className="text-[18px] md:text-[20px] leading-[32px] pt-[12px] md:max-w-[600px]  ">projects that I worked on during my career as a UI designer and some used fake projects</p>
           </div>
           <div className="mx-auto md:mx-0  md:w-1/3 my-auto px-[2px] ">
-            <img src="Images/Ilustrasibuku.png" alt="" className="  " />
+            <img src="https://andika1412.github.io/Andikaputra/Images/Ilustrasibuku.png" alt="" className="  " />
           </div>
         </div>
       </div>

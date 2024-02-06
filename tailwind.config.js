@@ -18,9 +18,9 @@ module.exports = {
         body: ["Inter"],
       },
       animation: {
-        fade: "fadeOut 5s ease-in-out",
+        "bounce-slow": "bounce 0.9s ease-in-out infinite",
+        "bounce-fast": "bounce 3s ease-in-out infinite",
       },
-      screens: {},
     },
   },
   plugins: [],

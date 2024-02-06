@@ -8,7 +8,7 @@ const tl = gsap.timeline();
 export const preLoaderAnim = () => {
   tl.to("body", {
     duration: 0.1,
-    css: { overflowY: "scroll" },
+    css: { overflowY: "hidden" },
     ease: "power3.inOut",
   })
     .to(".landing", {
@@ -38,7 +38,7 @@ export const preLoaderAnim = () => {
 
     .to(".landing", {
       duration: 0.05,
-      css: { overflowY: "scroll", height: "unset" },
+      css: { overflowY: "hidden", height: "unset" },
     })
     .to("body", {
       duration: 0.1,

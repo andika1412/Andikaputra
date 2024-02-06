@@ -6,13 +6,11 @@ import NotFound from "./Pages/NotFound";
 import TitikBaca from "./Component/MyWorkComponents/MyWorkList/TitikBaca";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Footer from "./Component/Footer";
-import Preloader from "./Component/Comp/Preloader";
 
 const App = () => {
   return (
     <div className="">
       <Router>
-        <Preloader />
         <Navbar />
         <Routes>
           <Route path="/Andikaputra/Home" element={<Home />} />

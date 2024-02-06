@@ -9,7 +9,7 @@ const Product = () => {
   return (
     <div className="md:mx-[100px] mb-[24px] mx-[20px] md:mt-[100px] mt-[30px] pt-[40px] md:pt-[0px] ">
       <div className="flex flex-wrap justify-center   max-w-[1000px] mx-auto ">
-        <div className="  px-[12px] md:w-2/3 animation" data-aos="fade-up">
+        <div className="  px-[12px] md:w-2/3 animation" data-aos="fade-right">
           <div className=" md:max-w-[351px]    ">
             <h2 className="font-Inter font-bold text-[24px] text-bigtext pb-[16px] text-center md:text-left md:text-[30px]">Check out some of the products i've worked on</h2>
           </div>
