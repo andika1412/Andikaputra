@@ -30,7 +30,7 @@ const TitikBaca = () => {
           </div>
 
           <div className="pt-[24px] ">
-            <img src="../Images/TitikBacaCover.png" alt="" />
+            <img src="https://andika1412.github.io/Andikaputra/Images/TitikBacaCover.png" alt="" />
           </div>
 
           {/* //explenation */}
@@ -49,7 +49,7 @@ const TitikBaca = () => {
             </p>
 
             <div className="pt-[24px]">
-              <img src="../Images/Readbook.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Readbook.png" alt="" />
             </div>
 
             <h1 className="text-[24px] text-bigtext font-bold pt-[40px]">How Titik Baca Digital Work</h1>
@@ -61,40 +61,40 @@ const TitikBaca = () => {
             </p>
 
             <div className="pt-[24px]">
-              <img src="../Images/Titikbacaspot.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Titikbacaspot.png" alt="" />
             </div>
 
             <h1 className="text-[24px] text-bigtext font-bold pt-[40px]"> Design Decisions</h1>
 
             <h1 className="text-[24px] text-bigtext font-semibold pt-[20px]">On Boarding</h1>
             <div className="pt-[24px]">
-              <img src="../Images/Onboarding.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Onboarding.png" alt="" />
             </div>
 
             <h1 className="text-[24px] text-bigtext font-semibold pt-[32px]">Home Screen</h1>
             <div className="pt-[24px]">
-              <img src="../Images/Homescreen.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Homescreen.png" alt="" />
             </div>
 
             <h1 className="text-[24px] text-bigtext font-semibold pt-[32px]">Location</h1>
             <div className="pt-[24px]">
-              <img src="../Images/Location.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Location.png" alt="" />
             </div>
 
             <h1 className="text-[24px] text-bigtext font-semibold pt-[32px]">Place</h1>
             <div className="pt-[24px]">
-              <img src="../Images/Place.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Place.png" alt="" />
             </div>
 
             <h1 className="text-[24px] text-bigtext font-semibold pt-[32px]">Scan</h1>
             <div className="pt-[24px]">
-              <img src="../Images/Scanqr.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Scanqr.png" alt="" />
             </div>
 
             <h1 className="text-[24px] text-bigtext font-semibold pt-[32px]">Final Result</h1>
             <div className="pt-[24px]">
-              <img src="../Images/Final1.png" alt="" />
-              <img src="../Images/Final2.png" alt="" className="pt-[24px]" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Final1.png" alt="" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Final2.png" alt="" className="pt-[24px]" />
             </div>
 
             <p className="text-paragraf pt-[16px] text-[16px] leading-[32px] pb-[60px] ">Share this study case :</p>
