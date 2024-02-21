@@ -1,7 +1,7 @@
 import { Icon } from "@iconify/react";
 import React, { useEffect, useState } from "react";
 import { Link, NavLink, useLocation } from "react-router-dom";
-import "../App.css";
+import "./App.css";
 
 const Navbar = () => {
   let Links = [
@@ -21,7 +21,7 @@ const Navbar = () => {
   let [open, setOpen] = useState(false);
   return (
     <div className=" sticky top-0 z-40 animasii ">
-      <header className="border border-navbar w-full  top-0 left-0 ">
+      <header className=" w-full  top-0 left-0 ">
         <div className={`md:flex items-center justify-between  backdrop-blur-[2px] py-3 md:px-20 px-7 ${open ? "bg-white/95" : "bg-white/80"} `}>
           <div className=" font-bold text-2xl cursor-pointer flex items-center ">
             <span className="text-3xl text-indigo-600 mr-1 ">

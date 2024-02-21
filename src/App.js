@@ -1,11 +1,11 @@
 import Home from "./Pages/Home";
 import MyWork from "./Pages/MyWork";
-import Navbar from "./Component/Navbar";
+import Navbar from "./Component/Home/Navbar";
 import ExperienceAndEducation from "./Pages/ExperienceAndEducation";
 import NotFound from "./Pages/NotFound";
 import TitikBaca from "./Component/MyWorkComponents/MyWorkList/TitikBaca";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Footer from "./Component/Footer";
+import Footer from "./Component/Home/Footer";
 
 const App = () => {
   return (

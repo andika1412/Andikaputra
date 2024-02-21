@@ -1,13 +1,12 @@
-import Hero from "../Component/Hero";
-import Heroo from "../Component/Heroo";
-import BuildTogether from "../Component/BuildTogether";
-import Product from "../Component/Product";
-import Workon from "../Component/Workon";
-import Linkdln from "../Component/Linkdln";
-import Journey from "../Component/Journey";
-import Lookingfor from "../Component/Lookingfor";
-import Introduce from "../Component/Introduce";
-import Footer from "../Component/Footer";
+import Heroo from "../Component/Home/Heroo";
+import BuildTogether from "../Component/Home/BuildTogether";
+import Product from "../Component/Home/Product";
+import Workon from "../Component/Home/Workon";
+import Linkdln from "../Component/Home/Linkdln";
+import Journey from "../Component/Home/Journey";
+import Lookingfor from "../Component/Home/Lookingfor";
+import Introduce from "../Component/Home/Introduce";
+import "../";
 
 const Home = () => {
   return (

@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { Icon } from "@iconify/react";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import { Link } from "react-router-dom";
 
 const BuildTogether = () => {
   useEffect(() => {
@@ -19,9 +20,12 @@ const BuildTogether = () => {
             <span className="text-orenji font-bold">Programing</span> and <span className="text-orenji font-bold">web design</span> . No matter the industryyy, i'd love to talk with you and see how we could creater something wonderful.
           </p>
           <div className=" flex justify-center">
-            <button className="hover:bg-orenji  md:py-[16px] md:text-[18px]  md:px-[56px] py-[18px] px-[32px] bg-bigtext text-white font-Inter font-semibold text-[16px] rounded-[6px] flex transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-110 duration-300">
+            <Link
+              to={"https://www.behance.net/andikaputra12"}
+              className="hover:bg-orenji  md:py-[16px] md:text-[18px]  md:px-[56px] py-[18px] px-[32px] bg-bigtext text-white font-Inter font-semibold text-[16px] rounded-[6px] flex transition ease-in-out delay-50 hover:-translate-y-1 hover:scale-110 duration-300"
+            >
               <Icon icon="iconoir:bright-star" className="h-6 w-6 mr-[12px]" /> Check My Portofolio
-            </button>
+            </Link>
           </div>
         </div>
       </div>

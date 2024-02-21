@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import { Link } from "react-router-dom";
 
 const Product = () => {
   useEffect(() => {
@@ -20,9 +21,12 @@ const Product = () => {
           </div>
 
           <div className="flex justify-center py-[24px]  md:justify-normal">
-            <button className="relative font-Inter md:text-[18px] text-[16px] border rounded-[6px] border-bigtext bg-transparent py-[20px] px-[20px] font-semibold text-bigtext transition-colors before:absolute before:left-0 before:rounded-[6px] before:top-0 before:-z-10 before:h-full before:w-full before:origin-top-left before:scale-x-0 before:bg-bigtext before:transition-transform before:duration-300  hover:text-white before:hover:scale-x-100">
+            <Link
+              to={"/Andikaputra/MyWork"}
+              className="relative font-Inter md:text-[18px] text-[16px] border rounded-[6px] border-bigtext bg-transparent py-[20px] px-[20px] font-semibold text-bigtext transition-colors before:absolute before:left-0 before:rounded-[6px] before:top-0 before:-z-10 before:h-full before:w-full before:origin-top-left before:scale-x-0 before:bg-bigtext before:transition-transform before:duration-300  hover:text-white before:hover:scale-x-100"
+            >
               View All Design Work
-            </button>
+            </Link>
           </div>
         </div>
         <div className="  px-[12px] md:w-1/3 my-auto invisible md:visible animation " data-aos="fade-left">

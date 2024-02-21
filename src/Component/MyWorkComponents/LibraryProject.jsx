@@ -10,20 +10,8 @@ const LibraryProject = () => {
           <CardLibrary
             Image="https://andika1412.github.io/Andikaputra/Images/TitikBacaCover.png"
             Title="Titik Baca Digital"
-            Desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum iste nulla voluptatem consequatur! "
+            Desc="Titik Baca Digital is an application and web management company for developing village information systems"
             link="/Andikaputra/MyWork/TitikBaca"
-          />
-          <CardLibrary
-            Image="https://andika1412.github.io/Andikaputra/Images/uu.jpg"
-            Title="Testing"
-            Desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum iste nulla voluptatem consequatur!"
-            link="/Andikaputra/ExperienceAndEducation"
-          />
-          <CardLibrary
-            Image="https://andika1412.github.io/Andikaputra/Images/uu.jpg"
-            Title="Testing"
-            Desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum iste nulla voluptatem consequatur!"
-            link="/Andikaputra/ExperienceAndEducation"
           />
         </div>
       </div>

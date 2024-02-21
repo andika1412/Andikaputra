@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import { Link } from "react-router-dom";
 
 const Linkdln = () => {
   useEffect(() => {
@@ -20,9 +21,12 @@ const Linkdln = () => {
           </div>
 
           <div className="flex justify-center py-[24px]  md:justify-normal">
-            <button className="hover:bg-bigtext hover:text-white hover:border hover:border-bigtext  md:py-[16px] md:text-[18px]  md:px-[56px] py-[18px] px-[32px] bg-white text-bigtext border border-bigtext font-Inter font-semibold text-[16px] rounded-[6px]  duration-300 ">
+            <Link
+              to={"https://www.linkedin.com/in/andikadwiputraharahap/"}
+              className="hover:bg-bigtext hover:text-white hover:border hover:border-bigtext  md:py-[16px] md:text-[18px]  md:px-[56px] py-[18px] px-[32px] bg-white text-bigtext border border-bigtext font-Inter font-semibold text-[16px] rounded-[6px]  duration-300 "
+            >
               Check My Linkdln
-            </button>
+            </Link>
           </div>
         </div>
         <div className="  px-[12px] md:w-1/3 my-auto invisible md:visible  " data-aos="fade-left">
