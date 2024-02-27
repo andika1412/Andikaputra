@@ -11,18 +11,18 @@ const Workon = () => {
     <div>
       <div className="flex flex-wrap justify-center">
         <div className="animation" data-aos="fade-up">
-          <CardWorkon heading="Literasia" desc="LITERASIA is a cloud-based school management information system provider." gambar="https://andika1412.github.io/Andikaputra/Images/Literasia1.png" />
-        </div>
-        <div className="animation" data-aos="fade-up">
           <CardWorkon
-            heading="Titikbaca Digital"
-            desc="Titik Baca Digital is an application and web management company for developing  information systems"
+            heading="Titik Baca Digital"
+            desc="Titik Baca Digital is a digital book library application that you can read anywhere"
             link="/Andikaputra/MyWork/TitikBaca"
             gambar="https://andika1412.github.io/Andikaputra/Images/Titikbaca.png"
           />
         </div>
         <div className="animation" data-aos="fade-up">
           <CardWorkon heading="Bisajadicreative" desc="Bisajadicreative is a company that focuses on managing development in the digital creative field" gambar="https://andika1412.github.io/Andikaputra/Images/Bisajadi.png" />
+        </div>
+        <div className="animation" data-aos="fade-up">
+          <CardWorkon heading="Cofee House" desc="Cofee House is an application where users can easily order coffee or snacks directly at the coffee shop" link="/Andikaputra/MyWork/CofeeHouse" gambar="./Images/kopii.png " />
         </div>
       </div>
     </div>

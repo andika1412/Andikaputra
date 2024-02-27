@@ -1345,6 +1345,13 @@
   dependencies:
     "@iconify/types" "^2.0.0"
 
+"@iconify/tailwind@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.npmjs.org/@iconify/tailwind/-/tailwind-0.1.4.tgz"
+  integrity sha512-U7RzcU2fkwOfMDsGQ3mtpLIaApSnqb+vgcJJknPPbg8/NF5s7tI1o5otEMfcpnLGk4PbYB8bxmKTz7IJVUlU2Q==
+  dependencies:
+    "@iconify/types" "^2.0.0"
+
 "@iconify/types@^2.0.0":
   version "2.0.0"
   resolved "https://registry.npmjs.org/@iconify/types/-/types-2.0.0.tgz"

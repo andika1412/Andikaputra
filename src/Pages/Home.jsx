@@ -6,6 +6,7 @@ import Linkdln from "../Component/Home/Linkdln";
 import Journey from "../Component/Home/Journey";
 import Lookingfor from "../Component/Home/Lookingfor";
 import Introduce from "../Component/Home/Introduce";
+import Hero from "../Component/Home/Hero";
 import "../";
 
 const Home = () => {

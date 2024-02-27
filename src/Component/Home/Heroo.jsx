@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "aos/dist/aos.css";
 import Aos from "aos";
-
+import { Link } from "react-router-dom";
 const Heroo = () => {
   useEffect(() => {
     Aos.init({ duration: 2000 });
@@ -19,14 +19,14 @@ const Heroo = () => {
             {/* Concepts/visions */}
           </h1>
         </div>
-        <div className="text-orenji  font-medium text-[18px] md:text-[20px]  max-w-fit flex flex-row mx-auto gap-5   ">
-          <a href="" className=" hover:font-semibold z-20  ">
+        <div className="  font-medium text-[18px] md:text-[20px]  max-w-fit flex md:flex-row flex-col-reverse mx-auto gap-5   ">
+          <Link href="" className=" md:hover:font-semibold z-20 py-[18px] px-[120px] md:border-0 md:text-orenji md:px-[0] md:py-[0] border md:bg-white border-bigtext bg-bigtext text-white rounded-[6px]  ">
             About me
-          </a>
-          <p className="text-bigtext">-</p>
-          <a href="" className=" hover:font-semibold z-20">
+          </Link>
+          <p className="text-bigtext invisible md:visible mt-[-26px] md:mt-[0px] ">-</p>
+          <Link href="" className=" md:hover:font-semibold z-20 py-[18px] px-[120px] md:border-0 md:text-orenji md:px-[0] md:py-[0] border border-bigtext text-bigtext rounded-[6px]">
             My Projects
-          </a>
+          </Link>
         </div>
 
         <div className="absolute md:top-[165px] top-[100px] left-[500px] z-0 animate-bounce-slow animation" data-aos="fade-up">

@@ -6,8 +6,8 @@ import "./App.css";
 const Navbar = () => {
   let Links = [
     { name: "Home", to: "/Andikaputra/Home" },
-    { name: "My Works", to: "/Andikaputra/MyWork" },
-    { name: "Experince and education", to: "/Andikaputra/ExperienceAndEducation" },
+    { name: "Projects", to: "/Andikaputra/MyWork" },
+    { name: "Experience ", to: "/Andikaputra/ExperienceAndEducation" },
     { name: "Contact", to: "/" },
   ];
 
@@ -40,7 +40,7 @@ const Navbar = () => {
           >
             {Links.map((link) => (
               <li key={link.name} className="md:ml-[36px] text-[19px] md:my-0 my-7">
-                <NavLink to={link.to} activeClassName="active" className="text-bigtext font-Inter  hover:text-smalltext duration-00">
+                <NavLink to={link.to} activeClassName="active" className="text-bigtext min-w-fit font-Inter  hover:text-smalltext duration-00">
                   {link.name}
                 </NavLink>
               </li>

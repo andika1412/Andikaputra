@@ -4,12 +4,8 @@ import { Link } from "react-router-dom";
 const card = (props) => {
   return (
     <div>
-      <div className=" px-[20px]  w-[341px] mx-auto  mt-[28px]   ">
-        <div
-          className=" group border   border-batas rounded-[6px] my-[9px] w-[300px] md:h-[210px] h-[180px]   ease-in-out   duration-200  py-[12px] font-Inter md:text-[18px] text-[16px]
-          hover:shadow-lg 
-   "
-        >
+      <div className=" px-[20px] bore w-[341px] mx-auto  mt-[28px] group  ">
+        <div className=" border  border-batas rounded-[6px] my-[9px] w-[300px] md:h-[210px] h-[180px]   ease-in-out   duration-200  py-[12px] font-Inter md:text-[18px] text-[16px] hover:shadow-lg">
           <img
             src={props.gambar}
             alt=""
