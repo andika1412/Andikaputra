@@ -20,8 +20,7 @@ const LibraryProject = () => {
               link="/Andikaputra/MyWork/TitikBaca"
             />
             <CardLibrary
-              className="border"
-              Image="./Images/Coverkopi.png"
+              Image="https://andika1412.github.io/Andikaputra/Images/Coverkopi.png"
               Title="Cofee House"
               Desc="coffee app is an application where users can 
               easily order coffee or snacks directly at the coffee shop"
