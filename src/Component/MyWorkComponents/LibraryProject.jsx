@@ -12,7 +12,7 @@ const LibraryProject = () => {
     <>
       <div data-aos="fade-up">
         <div className="flex container items-center mx-auto max-w-[1100px] justify-center px-[12px] mb-[100px] ">
-          <div className="grid gap-x-[80px] gap-y-[100px] grid-cols-1 md:grid-cols-2 ">
+          <div className="md:grid md:gap-x-[80px] grid gap-y-[50px] md:gap-y-[100px] grid-cols-1 md:grid-cols-2 ">
             <CardLibrary
               Image="https://andika1412.github.io/Andikaputra/Images/TitikBacaCover.png"
               Title="Titik Baca Digital"

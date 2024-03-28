@@ -5,7 +5,7 @@ const CardLibrary = (props) => {
   return (
     <>
       <div className="     ">
-        <img src={props.Image} alt="" className=" rounded-[6px] " />
+        <img src={props.Image} alt="" className=" rounded-[6px] shadow-xl " />
         <h1 className=" font-bold text-[22px] text-bigtext pt-[12px]"> {props.Title}</h1>
         <p className="text-bigtext pt-[8px] leading-[36px] text-[18px]"> {props.Desc}</p>
 

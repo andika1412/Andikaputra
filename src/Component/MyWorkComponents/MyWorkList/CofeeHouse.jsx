@@ -29,7 +29,7 @@ const CofeeHouse = () => {
 
       <div className="pt-[24px] ">
         <img src="../Images/Cofee/Cover.png" alt="" />
-        <img src="../Images/Cofee/1.png" alt="" />
+
         <img src="../Images/Cofee/2.png" alt="" />
         <img src="../Images/Cofee/3.png" alt="" />
         <img src="../Images/Cofee/4.png" alt="" />
