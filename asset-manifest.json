@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Andikaputra/static/css/main.3b85e520.css",
-    "main.js": "/Andikaputra/static/js/main.2948d2b8.js",
+    "main.css": "/Andikaputra/static/css/main.1924923f.css",
+    "main.js": "/Andikaputra/static/js/main.086693ff.js",
     "static/js/787.e530f960.chunk.js": "/Andikaputra/static/js/787.e530f960.chunk.js",
     "index.html": "/Andikaputra/index.html",
-    "main.3b85e520.css.map": "/Andikaputra/static/css/main.3b85e520.css.map",
-    "main.2948d2b8.js.map": "/Andikaputra/static/js/main.2948d2b8.js.map",
+    "main.1924923f.css.map": "/Andikaputra/static/css/main.1924923f.css.map",
+    "main.086693ff.js.map": "/Andikaputra/static/js/main.086693ff.js.map",
     "787.e530f960.chunk.js.map": "/Andikaputra/static/js/787.e530f960.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b85e520.css",
-    "static/js/main.2948d2b8.js"
+    "static/css/main.1924923f.css",
+    "static/js/main.086693ff.js"
   ]
 }
