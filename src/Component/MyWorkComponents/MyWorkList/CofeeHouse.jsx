@@ -28,24 +28,24 @@ const CofeeHouse = () => {
       </div>
 
       <div className="pt-[24px] ">
-        <img src="../Images/Cofee/Cover.png" alt="" />
+        <img src="https://andika1412.github.io/Andikaputra/Images/Cover.png" alt="" />
 
-        <img src="../Images/Cofee/2.png" alt="" />
-        <img src="../Images/Cofee/3.png" alt="" />
-        <img src="../Images/Cofee/4.png" alt="" />
-        <img src="../Images/Cofee/5.png" alt="" />
-        <img src="../Images/Cofee/6.png" alt="" />
-        <img src="../Images/Cofee/7.png" alt="" />
-        <img src="../Images/Cofee/8.png" alt="" />
-        <img src="../Images/Cofee/9.png" alt="" />
-        <img src="../Images/Cofee/10.png" alt="" />
-        <img src="../Images/Cofee/11.png" alt="" />
-        <img src="../Images/Cofee/12.png" alt="" />
-        <img src="../Images/Cofee/13.png" alt="" />
-        <img src="../Images/Cofee/14.png" alt="" />
-        <img src="../Images/Cofee/15.png" alt="" />
-        <img src="../Images/Cofee/16.png" alt="" />
-        <img src="../Images/Cofee/17.png" alt="" />
+        <img src="https://andika1412.github.io/Andikaputra/Images/Cofee/2.png" alt="" />
+        <img src="https://andika1412.github.io/Andikaputra/Images/Cofee/3.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/4.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/5.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/6.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/7.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/8.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/9.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/10.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/11.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/12.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/13.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/14.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/15.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/16.png" alt="" />
+        <img src="hhttps://andika1412.github.io/Andikaputra/Images/Cofee/17.png" alt="" />
       </div>
     </div>
   );

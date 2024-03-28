@@ -30,7 +30,7 @@ const TitikBaca = () => {
           </div>
 
           <div className="pt-[24px] ">
-            <img src="../Images/Titikbaca/BooksCover.png" alt="" className="shadow-l" />
+            <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/BooksCover.png" alt="" className="shadow-l" />
           </div>
 
           {/* //explenation */}
@@ -110,7 +110,7 @@ const TitikBaca = () => {
             <div className="pt-[100px]">
               <h1 className="md:text-[30px] text-[26px] text-bigtext font-bold ">How Titik Baca Digital Work</h1>
               <div className="mt-[32px] bg-slate-400 md:w-full  ">
-                <img src="../Images/Titikbaca/user.png" alt="" className="rounded-xw-fulll   " />
+                <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/user.png" alt="" className="rounded-xw-fulll   " />
               </div>
               <p className="text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px] ">
                 A place can have several Reading Points with different book collections. Matter This makes it possible for each different content provider to attach a QR Code different. The QR Code location must be filled in by the Content
@@ -122,7 +122,7 @@ const TitikBaca = () => {
             <div>
               <h1 className="md:text-[30px] text-[26px] text-bigtext font-bold pt-[60px]">The Problem</h1>
               <div className="pt-[32px] md:w-full">
-                <img src="../Images/Titikbaca/problem.png" alt="" className="rounded-xl w-full object-cover" />
+                <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/problem.png" alt="" className="rounded-xl w-full object-cover" />
               </div>
               <p className="text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px] ">
                 Many Book Fairs are visited everywhere. The main cause is Lack of access to reading Our people especially find it difficult to access reading at their times have free time. Compare it with Japanese society wherever they are
@@ -143,7 +143,7 @@ const TitikBaca = () => {
             <div>
               <h1 className="md:text-[30px] text-[26px] text-bigtext font-bold pt-[60px]">User & Audience</h1>
               <div className="pt-[32px] md:w-full">
-                <img src="../Images/Titikbaca/audience.png" alt="" className="rounded-xl w-full object-cover" />
+                <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/audience.png" alt="" className="rounded-xl w-full object-cover" />
               </div>
               <p className="text-paragraf pt-[16px] text-[20px] leading-[50px] ">For making this app to work, there are 3 sides to the app/platform :</p>
               <ul className="list-decimal md:pl-[50px] pl-[20px] text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px]">
@@ -183,7 +183,7 @@ const TitikBaca = () => {
             <h1 className="md:text-[30px] text-[26px] text-bigtext font-bold pt-[60px]"> Design Decisions</h1>
             <h1 className="text-[28px] text-bigtext font-semibold pt-[24px]">On Boarding</h1>
             <div className="pt-[24px] w-full">
-              <img src="../Images/Titikbaca/onboarding.png" alt="" className="rounded-xl  w-full object-cover" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/onboarding.png" alt="" className="rounded-xl  w-full object-cover" />
             </div>
             <p className="text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px] ">
               I make sure that when users use our application and see the boarding page they will understand what our application can do by highlighting the advantages of our application and providing login and register buttons at the
@@ -195,7 +195,7 @@ const TitikBaca = () => {
             {/* //Home Screen */}
             <h1 className="md:text-[30px] text-[26px] text-bigtext font-semibold pt-[60px]">Home Screen</h1>
             <div className="pt-[24px] w-full">
-              <img src="../Images/Titikbaca/homescreen.png" alt="" className="rounded-xl  w-full object-cover" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/homescreen.png" alt="" className="rounded-xl  w-full object-cover" />
             </div>
             <div className="text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px] ">
               <p className=" ">This screen contains Bookquotes,Scan Information, Location Information and List of Freebook</p>
@@ -212,7 +212,7 @@ const TitikBaca = () => {
             <div>
               <h1 className="md:text-[30px] text-[26px] text-bigtext font-semibold pt-[60px]">TitikBaca Location</h1>
               <div className="pt-[24px] w-full">
-                <img src="../Images/Titikbaca/loaction.png" alt="" className="rounded-xl  w-full object-cover" />
+                <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/loaction.png" alt="" className="rounded-xl  w-full object-cover" />
               </div>
               <div className="text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px] ">
                 <p>This pages will show you the nearest Titikbaca Location and the detail of the place</p>
@@ -227,7 +227,7 @@ const TitikBaca = () => {
 
             <h1 className="md:text-[30px] text-[26px] text-bigtext font-semibold pt-[60px]">Detail Places</h1>
             <div className="pt-[24px] w-full">
-              <img src="../Images/Titikbaca/detailplace.png" alt="" className="rounded-xl  w-full object-cover" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/detailplace.png" alt="" className="rounded-xl  w-full object-cover" />
             </div>
             <p className="text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px]">
               <p className=" ">Information About Place and Books</p>
@@ -240,7 +240,7 @@ const TitikBaca = () => {
 
             <h1 className="md:text-[30px] text-[26px] text-bigtext font-semibold pt-[60px]">Scan Qr</h1>
             <div className="pt-[24px] w-full">
-              <img src="../Images/Titikbaca/scan.png" alt="" className="rounded-xl  w-full object-cover" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/scan.png" alt="" className="rounded-xl  w-full object-cover" />
             </div>
             <div className="text-paragraf md:pt-[20px] pt-[12px] md:text-[20px] text-[18px] md:leading-[50px] leading-[46px]">
               <p className=" ">Allow you to scan Titikbaca Baner</p>
@@ -253,8 +253,8 @@ const TitikBaca = () => {
 
             <h1 className="md:text-[30px] text-[26px] text-bigtext font-bold pt-[60px] mb-[32px]">Final Result</h1>
             <div className="pt-[24px] w-full">
-              <img src="../Images/Titikbaca/finalresult1.png" alt="" className="rounded-xl  w-full object-cover" />
-              <img src="../Images/Titikbaca/finalresult2.png" alt="" className="pt-[24px] rounded-xl  w-full object-cover" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/finalresult1.png" alt="" className="rounded-xl  w-full object-cover" />
+              <img src="https://andika1412.github.io/Andikaputra/Images/Titikbaca/finalresult2.png" alt="" className="pt-[24px] rounded-xl  w-full object-cover" />
             </div>
           </div>
 

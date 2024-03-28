@@ -22,7 +22,12 @@ const Workon = () => {
           <CardWorkon heading="Bisajadicreative" desc="Bisajadicreative is a company that focuses on managing development in the digital creative field" gambar="https://andika1412.github.io/Andikaputra/Images/Bisajadi.png" />
         </div>
         <div className="animation" data-aos="fade-up">
-          <CardWorkon heading="Cofee House" desc="Cofee House is an application where users can easily order coffee or snacks directly at the coffee shop" link="/Andikaputra/MyWork/CofeeHouse" gambar="./Images/Kopii.png " />
+          <CardWorkon
+            heading="Cofee House"
+            desc="Cofee House is an application where users can easily order coffee or snacks directly at the coffee shop"
+            link="/Andikaputra/MyWork/CofeeHouse"
+            gambar="https://andika1412.github.io/Andikaputra/Images/Kopii.png "
+          />
         </div>
       </div>
     </div>
