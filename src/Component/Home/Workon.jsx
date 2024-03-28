@@ -26,7 +26,7 @@ const Workon = () => {
             heading="Cofee House"
             desc="Cofee House is an application where users can easily order coffee or snacks directly at the coffee shop"
             link="/Andikaputra/MyWork/CofeeHouse"
-            gambar="https://andika1412.github.io/Andikaputra/Images/Kopii.png "
+            gambar="https://andika1412.github.io/Andikaputra/Images/Cofee/Kopii.png "
           />
         </div>
       </div>
